@@ -1,6 +1,6 @@
 ---
 title: "Evolutionary Dynamics of Cellular Immunotherapies"
-excerpt: "CAR T cells interact with the tumor and the immune system<br/><img src='/images/CAR-T_01.png' width=200>"
+excerpt: "CAR T cells interact with the tumor and the immune system<br/><img src='/images/CAR-T_01.png' width="100">"
 collection: portfolio
 ---
 
