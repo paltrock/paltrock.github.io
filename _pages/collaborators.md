@@ -5,8 +5,4 @@ permalink: /collaborators/
 author_profile: true
 ---
 
-{% include base_path %}
-
-#{% for post in site.teaching reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+We work with a number of amazing resaerchers across the world. 
