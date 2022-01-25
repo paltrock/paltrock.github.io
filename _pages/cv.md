@@ -16,9 +16,13 @@ Education
 
 Work experience
 ======
+* since 2021: Project Group Leader, Max Planck Institute for Evolutionary Biology, Plön, Germany
+
 * 2017-2021: Assistant Member, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL
 
 * 2013-2017: Resaerch Fellow, Dana-Farber Cancer Institute & Harvard University, Boston, MA
+
+* 2011-2013: Resaerch Scientist, Max Planck Institute for Evolutionary Biology, Plön, Germany
 
 Awards
 ======
