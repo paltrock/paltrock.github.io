@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Diploma in Physics, Leipzig University, 2007
 * Dr. rer. nat., Kiel University, 2011
+* Diploma in Physics, Leipzig University, 2007
 
 Work experience
 ======
