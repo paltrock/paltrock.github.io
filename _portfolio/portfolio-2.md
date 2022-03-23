@@ -1,5 +1,5 @@
 ---
-title: "Selection of inflammation-susceptible cancer subtypes"
+title: "Selection in inflammation-susceptible cancer subtypes"
 excerpt: "Quantification of cellular types and selection in a changing tumor immune-ecology <br/><img src='/images/CMML_01.png' width=500 >"
 collection: portfolio
 ---
