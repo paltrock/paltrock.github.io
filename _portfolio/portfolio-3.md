@@ -1,6 +1,6 @@
 ---
 title: "Traces of selection: cellular heterogeneity in the tumor microenvironment"
-excerpt: "How can be better quantify cellular heterogeneity?<br/><img src='/images/heterogeneity-01.png' width=500>"
+excerpt: "How can we better quantify cellular heterogeneity?<br/><img src='/images/heterogeneity-01.png' width=500>"
 collection: portfolio
 ---
 
