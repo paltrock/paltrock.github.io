@@ -1,6 +1,6 @@
 
 ---
-title: "Álvaro Martinez Rubio"
+title: "Alvaro Martinez Rubio"
 excerpt: "pre-doc<br/><img src='/images/Alvaro_2022.jpg' width=500>"
 collection: team
 ---
