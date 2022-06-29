@@ -39,7 +39,7 @@ With <u><a href="https://padronlab.moffitt.org/">Eric Padron</a></u> and his lab
 
 With the team of <u><a href="https://moffitt.org/providers/brandon-manley/">Brandon Manley</a></u> we work on mulitple projects that seek to quantify the immunological and geospatial heterogeneity of kidney cancers. 
 
-Togehter with <u><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/116215">Christian Brendel</a></u> we model the cellular kinetics after gene therapy intervention for sickle cell disease. 
+Together with <u><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/116215">Christian Brendel</a></u> we model the cellular kinetics after gene therapy intervention for sickle cell disease. 
 
 At the University of Kiel, we work with the teams of <u><a href="https://www.medizin.uni-kiel.de/en/deans-office/deans/baldus">Claudia Baldus</a></u> and <u><a href="https://www.uksh.de/haematologielabor-kiel/Wir+%C3%BCber+uns/Team/Leitung.html">Monika Brüggemann</a></u> on heterogeneity and predicitve modeling of leukemia and lymphoma, as well as with <u><a href="https://www.iet.uni-kiel.de/en">Susanne Sebens</a></u> on tumor heterogeneity and metastasis. 
 
