@@ -13,7 +13,7 @@ We are located at the <u><a href="https://www.evolbio.mpg.de/2169/en">Max Planck
 Students
 ======
 
-**Álvar Martinez Rubio** (visiting PhD student)
+**Álvaro Martinez Rubio** (visiting PhD student)
 
 BSc in Physics (Universidad de Córdoba, 2017). MSc in Applied Mathematics (Imperial College London, 2018). Currently holding a Research Fellowship from Fundación Pablo Ugarte at Cádiz University. Álvaro's resaerch activity focuses on the development of mathematical models and machine learning for predictive modeling and therapy optimisation in childhood Acute Lymphoblastic Leukemia (ALL) treatment, particularly cellular therapy.
 
