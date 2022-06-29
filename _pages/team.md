@@ -37,7 +37,7 @@ With the groups of <u><a href="https://labpages2.moffitt.org/marusyk/lab-members
 
 With <u><a href="https://padronlab.moffitt.org/">Eric Padron</a></u> and his lab we work on inflammatory interactions in chronic myeloid diseases, such as CMML.
 
-With the team of <u><a href="https://moffitt.org/providers/brandon-manley/">Brandon Manley</a></u> we work on mulitple projects that seek to quantify the immunological and geospatial heterogeneity of kidney cancers. 
+With the teams of <u><a href="http://meghan.ferrall-fairbanks.com/">Meghan Ferrall-Fairbanks</a></u> and <u><a href="https://moffitt.org/providers/brandon-manley/">Brandon Manley</a></u> we work on mulitple projects that seek to quantify the immunological and geospatial heterogeneity of cancer. 
 
 Together with <u><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/116215">Christian Brendel</a></u> we model the cellular kinetics after gene therapy intervention for sickle cell disease. 
 
