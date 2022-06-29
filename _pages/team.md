@@ -17,9 +17,7 @@ Students
 
 BSc in Physics (Universidad de Córdoba, 2017). MSc in Applied Mathematics (Imperial College London, 2018). Currently holding a Research Fellowship from Fundación Pablo Ugarte at Cádiz University. Álvaro's resaerch activity focuses on the development of mathematical models and machine learning for predictive modeling and therapy optimisation in childhood Acute Lymphoblastic Leukemia (ALL) treatment, particularly cellular therapy.
 
-<u><a href="https://molab.es/person/?idpersonal=373">home page</a></u>
-
-<u><a href="https://scholar.google.com/citations?hl=en&user=8KQzLiYAAAAJ">google scholar</a></u>
+<u><a href="https://molab.es/person/?idpersonal=373">home page</a></u> | <u><a href="https://scholar.google.com/citations?hl=en&user=8KQzLiYAAAAJ">google scholar</a></u>
 
 
 
