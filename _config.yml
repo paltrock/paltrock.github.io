@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Philipp M. Altrock"
 title_separator          : "-"
 name                     : &name "Philipp M. Altrock"
-description              : &description "Evolutionary systems immunology of cancer"
+description              : &description "Cancer Modelling and Evolution"
 url                      : https://paltrock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paltrock/paltrock.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Philipp M. Altrock"
   avatar           : "philipp.png"
-  bio              : "Evolutionary dynamics and systems immunology of cancer"
+  bio              : "Cancer Modelling and Evolution"
   location         : "Kiel, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/philipp.altrock.2/bibliography/public/"
