@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Philipp M. Altrock"
 title_separator          : "-"
 name                     : &name "Philipp M. Altrock"
-description              : &description "Cancer Modelling and Evolution"
+description              : &description "Cancer Modeling & Evolution"
 url                      : https://paltrock.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "paltrock/paltrock.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Philipp M. Altrock"
   avatar           : "philipp.png"
-  bio              : "Cancer Modelling and Evolution"
+  bio              : "Cancer Modeling & Evolution"
   location         : "Kiel, Germany"
-  employer         :
+  employer         : "https://www.evolbio.mpg.de"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/philipp.altrock.2/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=pSwR6EoAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : "philipp.altrock@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0001-7731-3345"
   pinterest        :
   soundcloud       :
