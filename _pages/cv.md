@@ -22,7 +22,7 @@ Work experience
 
 * 2013-2017: Resaerch Fellow, Dana-Farber Cancer Institute & Harvard University, Boston, MA
 
-* 2011-2013: Resaerch Scientist, Max Planck Institute for Evolutionary Biology, Plön, Germany
+* 2011-2012: Resaerch Scientist, Max Planck Institute for Evolutionary Biology, Plön, Germany
 
 Awards
 ======
