@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-These are my personal pages. My name is Philipp Altrock (he/him), I am a Project Group Leader at the Max Planck Institute for Evolutionary Biology. 
+These are my personal pages. My name is Philipp Altrock (he/him), I am a Project Leader at the Max Planck Institute for Evolutionary Biology. 
 
 We investigate how the ecology of tumors can be quantified in order to better understand the role of selection on cancer, stroma, and immune cell populations during tumor evolution and progression. In this context, our work focuses on quantification of tumor phenotypic and immunologic heterogeneity, on immune system interactions during cellular immunotherapy, and on nonlinear models of selection in cancer systems.
 
