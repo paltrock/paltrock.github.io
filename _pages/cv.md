@@ -16,7 +16,9 @@ Education
 
 Work experience
 ======
-* since 2021: Project Group Leader, Max Planck Institute for Evolutionary Biology, Plön, Germany
+* since 2022: Independent Biotechnology Consultant, Modeling and Data Science, Kiel, Germany
+
+* since 2021: Project Leader Cancer Evolution, Max Planck Institute for Evolutionary Biology, Plön, Germany
 
 * 2017-2021: Assistant Member, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL
 
@@ -26,6 +28,7 @@ Work experience
 
 Awards
 ======
+* 2024 Heisenberg Funding Program (competitive) of the DFG 
 * 2020 Junior Faculty Research Award, H. Lee Moffitt Cancer Center and Research Institute, 2021
 * Postdoctoral Fellowship of the German Academy of Sciences Leopoldina, 2013
 
