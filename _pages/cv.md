@@ -18,13 +18,13 @@ Work experience
 ======
 * since 2022: Independent Biotechnology Consultant, Modeling and Data Science, Kiel, Germany
 
-* since 2021: Project Leader Cancer Evolution, Max Planck Institute for Evolutionary Biology, Plön, Germany
+* since 2021: Project Leader, Cancer Ecology & Evolution, Max Planck Institute for Evolutionary Biology, Plön, Germany
 
-* 2017-2021: Assistant Member, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL
+* 2017-2021: Assistant Member, Integrated Mathematical Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL
 
-* 2013-2017: Resaerch Fellow, Dana-Farber Cancer Institute & Harvard University, Boston, MA
+* 2013-2017: Resaerch Fellow, Cancer Evolution, Dana-Farber Cancer Institute & Harvard University, Boston, MA
 
-* 2011-2012: Resaerch Scientist, Max Planck Institute for Evolutionary Biology, Plön, Germany
+* 2011-2012: Resaerch Scientist, Theoretical Biology, Max Planck Institute for Evolutionary Biology, Plön, Germany
 
 Awards
 ======
