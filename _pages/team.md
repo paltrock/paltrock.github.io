@@ -31,9 +31,11 @@ BSc in Physics (Universidad de Córdoba, 2017). MSc in Applied Mathematics (Impe
 Collaborators
 ======
 
-Our highly interdisciplinary work combines resaerch approaches and methods from biomathematics, computational biology, statistics, hematology, oncology, pathology, immunology, ecology, and evolution. 
+Our highly interdisciplinary work combines resaerch approaches and methods from biomathematics, computational biology, statistics, hematology, oncology, pathology, immunology, ecology of cancer, and evolution. 
 
-Togther with the group of <u><a href="https://moffitt.org/providers/frederick-locke/">Frederick L. Locke</a></u> we work on better understanding cellular and drug kinetics during CAR T cell therapy. 
+At the University of Kiel, we work with the teams of <u><a href="https://www.medizin.uni-kiel.de/en/deans-office/deans/baldus">Claudia Baldus</a></u> and <u><a href="https://www.uksh.de/haematologielabor-kiel/Wir+%C3%BCber+uns/Team/Leitung.html">Monika Brüggemann</a></u> on heterogeneity and predicitve modeling of leukemia and lymphoma, as well as with <u><a href="https://www.iet.uni-kiel.de/en">Susanne Sebens</a></u> on tumor heterogeneity and metastasis.
+
+Togther with the group of <u><a href="https://moffitt.org/providers/frederick-locke/">Frederick L. Locke</a></u> and <u><a href="https://www.uni-kiel.de/de/detailansicht/news/119-portrait-friedrich-stoelzel">Friedrich Stölzel</a></u> we work on better understanding cellular and drug kinetics during CAR T cell therapy. 
 
 With the groups of <u><a href="https://labpages2.moffitt.org/marusyk/lab-members/">Andriy Marusyk</a></u> and <u><a href="https://lab.moffitt.org/cancerevo/">David Basanta</a></u> we work on tumor-stroma interacitons, tumor ecology, and the effects of cancer associated fibroblasts in lung and breast cancers. 
 
@@ -42,8 +44,7 @@ With <u><a href="https://padronlab.moffitt.org/">Eric Padron</a></u> and his lab
 With the teams of <u><a href="http://meghan.ferrall-fairbanks.com/">Meghan Ferrall-Fairbanks</a></u> and <u><a href="https://moffitt.org/providers/brandon-manley/">Brandon Manley</a></u> we work on mulitple projects that seek to quantify the immunological and geospatial heterogeneity of cancer. 
 
 Together with <u><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/116215">Christian Brendel</a></u> we model the cellular kinetics after gene therapy intervention for sickle cell disease. 
-
-At the University of Kiel, we work with the teams of <u><a href="https://www.medizin.uni-kiel.de/en/deans-office/deans/baldus">Claudia Baldus</a></u> and <u><a href="https://www.uksh.de/haematologielabor-kiel/Wir+%C3%BCber+uns/Team/Leitung.html">Monika Brüggemann</a></u> on heterogeneity and predicitve modeling of leukemia and lymphoma, as well as with <u><a href="https://www.iet.uni-kiel.de/en">Susanne Sebens</a></u> on tumor heterogeneity and metastasis. 
+ 
 
 
 
