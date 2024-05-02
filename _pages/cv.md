@@ -38,6 +38,6 @@ Publications
   
 Service and leadership
 ======
-* Editorial Board Member, Mathematical Biosceinces
+* Editorial Board Member, Mathematical Biosciences
 * Editorial Board Member, The Journal of Nonlinear Science
 * Member of the Interdisciplinary Expertpanel, Research Foundation Flanders
