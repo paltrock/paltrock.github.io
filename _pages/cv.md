@@ -22,13 +22,13 @@ Work experience
 
 * 2017-2021: Assistant Member, Integrated Mathematical Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL
 
-* 2013-2017: Resaerch Fellow, Cancer Evolution, Dana-Farber Cancer Institute & Harvard University, Boston, MA
+* 2013-2017: Research Fellow, Cancer Evolution, Dana-Farber Cancer Institute & Harvard University, Boston, MA
 
-* 2011-2012: Resaerch Scientist, Theoretical Biology, Max Planck Institute for Evolutionary Biology, Plön, Germany
+* 2011-2012: Research Scientist, Theoretical Biology, Max Planck Institute for Evolutionary Biology, Plön, Germany
 
 Awards
 ======
-* 2024 Heisenberg Funding Program (competitive) of the [DFG](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/heisenberg)
+* 2024 Heisenberg Funding Program of the [DFG](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/heisenberg)
 * 2020 Junior Faculty Research Award, H. Lee Moffitt Cancer Center and Research Institute, 2021
 * Postdoctoral Fellowship of the German Academy of Sciences Leopoldina, 2013
 
@@ -38,5 +38,6 @@ Publications
   
 Service and leadership
 ======
+* Editorial Board Member, Mathematical Biosceinces
 * Editorial Board Member, The Journal of Nonlinear Science
 * Member of the Interdisciplinary Expertpanel, Research Foundation Flanders
