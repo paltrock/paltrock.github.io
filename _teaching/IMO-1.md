@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/IMO-1
 venue: "University of South FLorida (USF) and Moffitt Cancer Center, Department of Integrated Mathemtical Oncology (IMO)"
-date: 2018-2020
+timeframe: 2018-2020
 location: "Tampa, Florida, USA"
 ---
 
