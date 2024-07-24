@@ -1,20 +1,29 @@
 ---
-title: "Teaching experience 1"
+title: "Mathematical Oncology 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of South FLorida (USF) and Moffitt Cancer Center, Department of Integrated Mathemtical Oncology (IMO)"
+date: 2018-2020
+location: "Tampa, Florida, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course was taught together with other faculty members of the IMO (and of USF Mathematics) every Fall Semester.
 
-Heading 1
+The purpose of mathemtical modeling in cancer.
 ======
 
-Heading 2
+Growth laws, time scales, spatial scales.
 ======
 
-Heading 3
+Cancer evolution and cell population dyanmics.
+======
+
+Cancer therapy: resistance, dosing, timing, and adaptive therapy
+======
+
+Cancer-immune interactions
+======
+
+Stochastic models of cancer evolution, growth, and response to therapy
 ======
