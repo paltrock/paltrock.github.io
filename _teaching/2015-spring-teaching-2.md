@@ -1,10 +1,10 @@
 ---
 title: "Mathematical Oncology 2"
 collection: teaching
-#type: "Workshop"
-#permalink: /teaching/2015-spring-teaching-1
-#venue: "University 1, Department"
-#date: 2015-01-01
+type: "Lecture"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+timeframe: 2019-2021
 #location: "City, Country"
 ---
 
