@@ -38,6 +38,7 @@ Publications
   
 Service and leadership
 ======
+* Academic Editor, PLoS Computational Biology 
 * Editorial Board Member, Mathematical Biosciences
 * Editorial Board Member, The Journal of Nonlinear Science
 * Member of the Interdisciplinary Expertpanel, Research Foundation Flanders
