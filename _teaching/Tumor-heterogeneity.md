@@ -3,7 +3,7 @@ title: "Tumor Heterogeneity"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/heterogeneity
-venue: "Medizinische Fakultät, Christian-Albreachts-Universität zu Kiel"
+venue: "Medizinische Fakultät, Christian-Albrechts-Universität zu Kiel"
 date: 2024-07-30
 location: "Kiel, Germany"
 ---
