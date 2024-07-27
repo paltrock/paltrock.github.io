@@ -8,7 +8,7 @@ date: 2019-02-01
 location: "Tampa, Florida, USA"
 ---
 
-I was the course director and taught together with other faculty members of the IMO every Fall Spring from 2019 to 2021. 
+I was the course director and taught together with other faculty members of the IMO every Spring from 2019 to 2021. 
 
 - *Course Description*
 This is a deep-focus course on the data-driven development of mathematical models of tissue homeostasis, cancer development, and treatment response to answer specific open questions in cancer biological and clinical oncology.
