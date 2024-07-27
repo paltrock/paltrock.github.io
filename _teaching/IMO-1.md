@@ -4,26 +4,26 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/IMO-1
 venue: "University of South FLorida (USF) and Moffitt Cancer Center, Department of Integrated Mathemtical Oncology (IMO)"
-timeframe: 2018-2020
+date: 2018
 location: "Tampa, Florida, USA"
 ---
 
-This course was taught together with other faculty members of the IMO (and of USF Mathematics) every Fall Semester.
+I taught together with other faculty members of the IMO (and of USF Mathematics) every Fall Semester from 2018 to 2020. We covered the following topics:
 
-The purpose of mathemtical modeling in cancer.
-======
+- The purpose of mathematical modeling in cancer
 
-Growth laws, time scales, spatial scales.
-======
 
-Cancer evolution and cell population dyanmics.
-======
+- Growth laws, time scales, spatial scales
 
-Cancer therapy: resistance, dosing, timing, and adaptive therapy
-======
 
-Cancer-immune interactions
-======
+- The dynamic nature of cancer evolution and cell population dynamics
 
-Stochastic models of cancer evolution, growth, and response to therapy
-======
+
+- Cancer therapy: resistance, dosing, timing, and adaptive therapy
+
+
+- Cancer-immune interactions
+
+
+- Stochastic models of cancer evolution, growth, and response to therapy
+
