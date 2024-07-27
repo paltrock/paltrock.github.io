@@ -11,11 +11,9 @@ location: "Tampa, Florida, USA"
 I was the course director and taught together with other faculty members of the IMO every Spring from 2019 to 2021. 
 
 - *Course Description*
-  
 This is a deep-focus course on the data-driven development of mathematical models of tissue homeostasis, cancer development, and treatment response to answer specific open questions in cancer biological and clinical oncology.
 
 - *Course Purpose*
-
 The IMO2 Integrated Mathematical Oncology course is an intense course that focuses on the data-driven development of mathematical models for clinical and biological insights. Topics include modeling for tissue homeostasis, oncogenesis, metastasis formation, radiation therapy, chemotherapy, immunotherapy, and cancer screening. Students are expected to have completed the IMO1 course before enrolling. Individual lectures will provide recent primary research articles, and students are expected to participate in analyzing these papers as part of their studies. 
 
 - *Course Objectives*
