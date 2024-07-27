@@ -68,7 +68,7 @@ Tumor heterogeneity contributes to resistance to therapy
 Measuring tumor heterogeneity
 ======
 
-- Diversity index measures, such as Shannon index or related quantities ([generalized diversity]([https://doi.org/10.1002/path.4757](https://en.wikipedia.org/wiki/Diversity_index) )
+- Diversity index measures, such as Shannon index or related quantities, see [generalized diversity]([https://doi.org/10.1002/path.4757](https://en.wikipedia.org/wiki/Diversity_index)
 
 - Diveristy can also be asessed using median differences of allele frequencies, e.g., using "Mutant Allele Tumor Heterogeneity" (MATH), see [PMID: 26840267](https://pubmed.ncbi.nlm.nih.gov/26840267/)
 
