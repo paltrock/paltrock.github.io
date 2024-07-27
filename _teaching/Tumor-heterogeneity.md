@@ -3,7 +3,7 @@ title: "Tumor Heterogeneity"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/heterogeneity
-venue: "Mediziische Fakultät, Christian-Albreachts-Universität zu Kiel"
+venue: "Medizinische Fakultät, Christian-Albreachts-Universität zu Kiel"
 date: 2024-07-30
 location: "Kiel, Germany"
 ---
@@ -69,3 +69,18 @@ Measuring tumor heterogeneity
 ======
 
 - Diversity index measures, such as Shannon index or related quantities ([generalized diversity]([https://doi.org/10.1002/path.4757](https://en.wikipedia.org/wiki/Diversity_index))
+
+- Diveristy can also be asessed using median differences of allele frequencies, e.g., using "Mutant Allele Tumor Heterogeneity" (MATH), see [PMID: 26840267](https://pubmed.ncbi.nlm.nih.gov/26840267/)
+
+
+Literature
+======
+
+- [Marusyk A, Polyak K. Tumor heterogeneity: causes and consequences. Biochim Biophys Acta. 2010.](https://pubmed.ncbi.nlm.nih.gov/19931353) PMID: 19931353
+- [Meacham CE, Morrison SJ. Tumour heterogeneity and cancer cell plasticity. Nature. 2013.](https://pubmed.ncbi.nlm.nih.gov/24048065) PMID: 24048065
+- [Tabassum DP, Polyak K. Tumorigenesis: it takes a village. Nat Rev Cancer. 2015.](https://pubmed.ncbi.nlm.nih.gov/26156638) PMID: 26156638
+- [Morris LG et al. Pan-cancer analysis of intratumor heterogeneity as a prognostic determinant of survival. 2016.](https://pubmed.ncbi.nlm.nih.gov/26840267) PMID: 26840267
+- [Grzywa TM, Paskal W, Włodarski PK. Intratumor and Intertumor Heterogeneity in Melanoma. Transl Oncol. 2017.](https://pubmed.ncbi.nlm.nih.gov/29078205) PMID: 29078205
+- [Dagogo-Jack I, Shaw AT. Tumour heterogeneity and resistance to cancer therapies. Nat Rev Clin Oncol. 2018.](https://pubmed.ncbi.nlm.nih.gov/29115304) PMID: 29115304
+- [Ferrall-Fairbanks MC, Ball M, Padron E, Altrock PM. Leveraging Single-Cell RNA Sequencing Experiments to Model Intratumor Heterogeneity. JCO Clin Cancer Informatics. 2019.](https://pubmed.ncbi.nlm.nih.gov/30995123) PMID: 30995123
+
