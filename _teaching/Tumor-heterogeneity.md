@@ -16,7 +16,7 @@ What are the origins and importance of tumor heterogeneity?
 
 - Diversification can result from  genetic and epigenitic mutations and genetic instability
 
-- Tumor heterogeneity is belived to be responsible for evolution of both de novo and preexisting ceresistance to treatment
+- Tumor heterogeneity is belived to be responsible for evolution of both de novo and preexisting resistance to treatment
 
 
 Levels of tumor heterogeneity
