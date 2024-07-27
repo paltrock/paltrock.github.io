@@ -8,9 +8,7 @@ date: 2024-07-30
 location: "Kiel, Germany"
 ---
 
-
-
-======
+This lecture provides a brief introduction to the topic of tumor heterogeneity from the perspective of a mathematical oncologist.
 
 What are the origins and importance of tumor heterogeneity?
 ======
