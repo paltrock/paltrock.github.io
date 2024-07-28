@@ -1,6 +1,6 @@
 ---
 title: "Dynamical systems modeling of longitudinal data"
-excerpt: "Quantifying clinical response over time via statistical inference and modeling <br/><img src='/images/CMML_01.png' width=500 >"
+excerpt: "Quantifying clinical response over time via statistical inference and modeling <br/><img src='/images/Zuma1_responses.png' width=500 >"
 collection: portfolio
 ---
 
