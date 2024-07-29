@@ -12,6 +12,8 @@ This lecture provides a brief introduction to the topic of tumor heterogeneity f
 
 Learing goals: to be able distinguish forms of tumor heterogeneity, understand that they are a direct result of the complex process of cancer evolution, and to quantify heterogeneity from sequencing or cell classification (labeling) data.
 
+You can find the slides <a href="http://paltrock.github.io/files/Altrock_Heterogeneity_20240730.pdf" target="_blank">here</a>.
+
 What are the origins and importance of tumor heterogeneity?
 ======
 
