@@ -10,7 +10,7 @@ location: "Kiel, Germany"
 
 This lecture provides a brief introduction to the topic of tumor heterogeneity from the perspective of a mathematical oncologist. 
 
-Learing goals: to be able distinguish forms of tumor heterogeneity, understand that they are a direct result of the complex process of cancer evolution, and to quantify heterogeneity from sequencing or cell classification data.
+Learing goals: to be able distinguish forms of tumor heterogeneity, understand that they are a direct result of the complex process of cancer evolution, and to quantify heterogeneity from sequencing or cell classification (labeling) data.
 
 What are the origins and importance of tumor heterogeneity?
 ======
