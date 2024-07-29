@@ -23,6 +23,7 @@ What are the origins and importance of tumor heterogeneity?
 
 
 <br/><img src='/images/Altrock2025nrc_fig01.png' width=500>
+
 Tumor initiation and progression, from [PMID: 26597528](https://pubmed.ncbi.nlm.nih.gov/26597528/)
 
 
