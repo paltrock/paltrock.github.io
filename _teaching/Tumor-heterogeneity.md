@@ -78,7 +78,7 @@ Measuring tumor heterogeneity
 
 - Diversity index measures, such as Shannon index or related quantities, see [generalized diversity](https://en.wikipedia.org/wiki/Diversity_index)
 
-- For example, using the Shannon index, [Almendro et al.](https://pubmed.ncbi.nlm.nih.gov/24462293/) found that intratumor genetic diversity was tumor-subtype specific in breast cancers (comparin gLuminal A/B, Triple negative, and Her2+ cancers). Yet, diversity did not change during treatment in tumors with partial or no response.  
+- For example, using the Shannon index, [Almendro et al.](https://pubmed.ncbi.nlm.nih.gov/24462293/) found that intratumor genetic diversity was tumor-subtype specific in breast cancers (comparing Luminal A/B, Triple negative, and Her2+ cancers). Yet, diversity did not change during treatment in tumors with partial or no response.  
 
 - Diversity can also be assessed using median differences of allele frequencies, e.g., using "Mutant Allele Tumor Heterogeneity" (MATH), see [PMID: 26840267](https://pubmed.ncbi.nlm.nih.gov/26840267/)
 
