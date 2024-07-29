@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a pdf of my CV <a href="http://paltrock.github.io/files/Altrock_CV_202407.pdf" target="_blank">here</a>.
+You can find a pdf of my CV <a href="http://paltrock.github.io/files/Altrock_CV_20240729.pdf" target="_blank">here</a>.
 
 Education
 ======
