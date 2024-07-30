@@ -42,11 +42,9 @@ Levels of tumor heterogeneity
 To understand tumor heterogeneity, we need to understand cancer evolution
 ======
 
-- Cancer arises in the process of somatic evolution, that is, through spontaneous diversification and selection in cell populations of the human body
+- Cancer arises in the process of somatic evolution, that is, through spontaneous diversification and selection in cell populations of the human body.
 
-- Cancer also may inherit some of the tissue's levels of differentiation, e.g., in the form of cancer stem cells (CSCs)
-
-- CSCs are uniquely capable of recapitulating a tumor and give rise to multiple lineages that result in tumor heterogeneity
+- A reiteraive process of expansion, diversificaiton, selection can take place.
 
 - By the process of clonal evolution, tumors harvest heterogeneity, depending on the mode of selection (e.g., neutral evolution, clonal interference, punctuated equilibrium, spatially isolated selection events). See this [review](https://doi.org/10.1002/path.4757)
 
@@ -60,7 +58,9 @@ The role of plasticity
 
 - Phenotypic plasticity can result in niches within which cancer cells may better survive therapy and evolve long-term resistance
 
-- Plasticity does not only affect cancer cells, but also the cancer infiltrating stroma and immmune cells, e.g., fibroblasts and T lymphocytes
+- Plasticity does not only affect cancer cells, but also the cancer infiltrating stroma and immmune cells, e.g., fibroblasts and T lymphocytes.
+  
+- Cancer also may inherit some of the tissue's levels of differentiation, e.g., in the form of cancer stem cells (CSCs), which are uniquely capable of recapitulating a tumor and give rise to multiple lineages that can contribute in phenotypic tumor heterogeneity.
   
 
 Tumor heterogeneity contributes to resistance to therapy
