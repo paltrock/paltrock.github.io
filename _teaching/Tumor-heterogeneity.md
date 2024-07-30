@@ -36,7 +36,7 @@ Levels of tumor heterogeneity
 
 - Intratumor heterogeneity: Cancer cells of the same patient's tumor can also vary dramatically
 
-- Intertumor heterogeneity: Cancer cells of different sites within one patient, e.g., from primary tumor and metastasis, can be different, but some metastases can be much more homogeneous than others, see [PMID: 32451459](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7343611/)
+- Intertumor heterogeneity: Cancer cells of different sites within one patient, e.g., from primary tumor and metastasis, can be different, but some metastases can be much more homogeneous again, see [PMID: 32451459](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7343611/)
 
 
 To understand tumor heterogeneity, we need to understand cancer evolution
