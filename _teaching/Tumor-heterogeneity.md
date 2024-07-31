@@ -10,7 +10,7 @@ location: "Kiel, Germany"
 
 This lecture provides a brief introduction to the topic of tumor heterogeneity from the perspective of a mathematical oncologist. 
 
-Learing goals: to be able distinguish forms of tumor heterogeneity, understand that they are a direct result of the complex process of cancer evolution, and to quantify heterogeneity from sequencing or cell classification (labeling) data.
+Learing goals: to be able to distinguish forms of tumor heterogeneity, understand that they are a direct result of the complex process of cancer evolution, and to quantify heterogeneity from sequencing or cell classification (labeling) data using at least two different approaches.
 
 You can find the slides (in German) <a href="http://paltrock.github.io/files/Altrock_Heterogeneity_20240730.pdf" target="_blank">here</a>.
 
