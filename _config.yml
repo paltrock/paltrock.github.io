@@ -84,7 +84,7 @@ author:
   avatar           : "philipp.png"
   bio              : "Cancer Modeling & Evolution"
   location         : "Kiel, Germany"
-  employer         : https://www.evolbio.mpg.de/
+  employer         : # https://www.evolbio.mpg.de/
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/philipp.altrock.2/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=pSwR6EoAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "philipp.altrock@gmail.com"
