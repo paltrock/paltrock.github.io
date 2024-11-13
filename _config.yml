@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter Evolsci
+  username               : # &twitter Evolsci
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "philipp.png"
   bio              : "Cancer Modeling & Evolution"
   location         : "Kiel, Germany"
-  employer         : 
+  employer         : "https://www.evolbio.mpg.de/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/philipp.altrock.2/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=pSwR6EoAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "philipp.altrock@gmail.com"
@@ -103,14 +103,14 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "philipp-altrock"
-  mastodon         : "fediscience.org/@altrock"
+  mastodon         : #"fediscience.org/@altrock"
   orcid            : "https://orcid.org/0000-0001-7731-3345"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "evolsci"
+  twitter          : # "evolsci"
   vine             :
   weibo            :
   xing             :
