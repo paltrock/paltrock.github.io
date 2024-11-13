@@ -77,6 +77,8 @@ analytics:
   google:
     tracking_id          :
 
+ # Social media
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
 
 # Site Author
 author:
