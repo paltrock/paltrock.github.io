@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-These are my personal pages. My name is Philipp Altrock, I am a Project Leader at the Max Planck Institute for Evolutionary Biology. In April 2025, I will start as the <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/heisenberg" target="_blank">Heisenberg</a> Group for Cancer Modeling and Evolition at the Department of Hematology/Oncology, <a href="https://www.medizin.uni-kiel.de/en/faculty/faculty-of-medicine" target="_blank">Faculty of Medicine</a>, <a href="https://www.uni-kiel.de/en/" target="_blank">Kiel University</a>. 
+These are my personal pages. My name is Philipp Altrock, I am a Project Leader at the Max Planck Institute for Evolutionary Biology. In April 2025, I will start the <a href="https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/heisenberg" target="_blank">Heisenberg</a> Group for Cancer Modeling and Evolition at the Department of Hematology/Oncology, <a href="https://www.medizin.uni-kiel.de/en/faculty/faculty-of-medicine" target="_blank">Faculty of Medicine</a>, <a href="https://www.uni-kiel.de/en/" target="_blank">Kiel University</a>. 
 
 We investigate how the ecology of tumors can be quantified in order to better understand the role of selection on cancer, stroma, and immune cell populations during tumor evolution and progression. In this context, our work focuses on quantification of tumor phenotypic and immunologic heterogeneity, on immune system interactions during cellular immunotherapy, and on nonlinear models of selection in cancer systems.
 
