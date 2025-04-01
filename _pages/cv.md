@@ -18,9 +18,11 @@ Education
 
 Work experience
 ======
+* since 2025: Professor (W2), Medical Faculty, Kiel University, Germany
+
 * since 2022: Independent Biotechnology Consultant, Modeling and Data Science, Kiel, Germany
 
-* since 2021: Project Leader, Cancer Ecology & Evolution, Max Planck Institute for Evolutionary Biology, Plön, Germany
+* 2021-2025: Project Leader, Cancer Ecology & Evolution, Max Planck Institute for Evolutionary Biology, Plön, Germany
 
 * 2017-2021: Assistant Member, Integrated Mathematical Oncology, H. Lee Moffitt Cancer Center and Research Institute, Tampa, FL
 
