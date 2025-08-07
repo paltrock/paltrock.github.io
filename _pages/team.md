@@ -16,16 +16,15 @@ We are located at the <u><a href="https://www.uksh.de" target="_blank">Universit
 Students
 ======
 
-**Anne Anglet** (Master's student at Kiel University)
+**Anne Anglet, Bsc** (Master's student at Kiel University)
 
 BSc in Biology (Kiel University, 2023). Research interest: T cell heterogeneity and dynamics during bi-specific T cell enhancer therapy  
 
-
-**Yifan Chen** (graduate student, starting Sept. 2025)
+**Yifan Chen, Msc** (graduate student, starting Sept. 2025)
 
 Master of Science in Mathematics (2024) and Bachelor of Science in Mathematics (2021), Technical University of Munich (TUM), Germany. Research interests: CAR T cell therapy, tumor heterogeneity, cancer evolution, mathematical models of cancer growth, single cell sequencing analysis.
 
-**Qianci Yang** (graduate student, primary Supervisor: Arne Traulsen)
+**Qianci Yang, Msc** (graduate student, primary Supervisor: Arne Traulsen)
 
 Bachelor's and master's (integrated master's) degree from the University of Warwick, UK (2022). Research interest in mathematical and statistical modelling of cancer and immune system interactions, evolutionary dynamics of leukemia, complex interactions of diseases, history of science. 
 
@@ -33,9 +32,10 @@ Bachelor's and master's (integrated master's) degree from the University of Warw
 Postdocs
 ======
 
-**Mayukh Mond** (Postdoctoral Researcher in the Clinical Research Unit 5010 <u><a href="https://www.catchall-kfo5010.com/" target="_blank">CATCH ALL</a></u>)
+**Mayukh Mondal, PhD** (Postdoctoral Researcher in the Clinical Research Unit 5010 <u><a href="https://www.catchall-kfo5010.com/" target="_blank">CATCH ALL</a></u>)
 
 Bioinformatics and cancer evolution. <u><a href="https://www.ikmb.uni-kiel.de/people/mayukh-mondal/)" target="_blank">website at IKMB</a></u>
+
 
 Collaborators
 ======
@@ -52,7 +52,7 @@ With <u><a href="https://padronlab.moffitt.org/">Eric Padron</a></u> and his lab
 
 With the teams of <u><a href="http://meghan.ferrall-fairbanks.com/">Meghan Ferrall-Fairbanks</a></u> and <u><a href="https://moffitt.org/providers/brandon-manley/">Brandon Manley</a></u> we work on mulitple projects that seek to quantify the immunological and geospatial heterogeneity of cancer. 
 
-Together with <u><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/116215">Christian Brendel</a></u> we model the cellular kinetics after gene therapy intervention for sickle cell disease. 
+Together with <u><a href="https://connects.catalyst.harvard.edu/Profiles/display/Person/116215">Christian Brendel</a></u>, we model the cellular kinetics after gene therapy intervention for sickle cell disease. 
  
 
 
