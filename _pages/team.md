@@ -35,7 +35,7 @@ Postdocs
 
 **Mayukh Mond** (Postdoctoral Researcher in the Clinical Research Unit 5010 <u><a href="https://www.catchall-kfo5010.com/" target="_blank">CATCH ALL</a></u>)
 
-Bioinformatics and cancer evolution. <u><a href="[https://www.catchall-kfo5010.com/](https://www.ikmb.uni-kiel.de/people/mayukh-mondal/)" target="_blank">website at IKMB</a></u>
+Bioinformatics and cancer evolution. <u><a href="https://www.ikmb.uni-kiel.de/people/mayukh-mondal/)" target="_blank">website at IKMB</a></u>
 
 Collaborators
 ======
