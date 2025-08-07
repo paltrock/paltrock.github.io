@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find a pdf of my CV <a href="http://paltrock.github.io/files/Altrock_CV_20240729.pdf" target="_blank">here</a>.
+You can find a pdf of my CV <a href="http://paltrock.github.io/files/Altrock_CV_202508.pdf" target="_blank">here</a>.
 
 Education
 ======
@@ -18,6 +18,8 @@ Education
 
 Work experience
 ======
+* since 2025: Research Group Leader, University Hospital Schleswig-Holstein, Campus Kiel, Germany
+
 * since 2025: Professor (W2), Medical Faculty, Kiel University, Germany
 
 * since 2022: Independent Biotechnology Consultant, Modeling and Data Science, Kiel, Germany
@@ -42,6 +44,7 @@ Publications
   
 Service and leadership
 ======
+* Editorial Board Member, Cancer Research (AACR)
 * Academic Editor, PLoS Computational Biology 
 * Editorial Board Member, Mathematical Biosciences
 * Editorial Board Member, The Journal of Nonlinear Science
