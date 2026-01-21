@@ -16,20 +16,24 @@ We are located at the <u><a href="https://www.uksh.de" target="_blank">Universit
 Students
 ======
 
+**Cedrik Neber, Bsc** (Master's student at Ludwig-Maximilians University Munich)
+
+BSc in Molecular Biology (University of Heidelberg, 2023). Research interest: γδ T cell-ovarian cancer cell interactions  
+
 **Anne Anglet, Bsc** (Master's student at Kiel University)
 
-BSc in Biology (Kiel University, 2023). Research interest: T cell heterogeneity and dynamics during bi-specific T cell enhancer therapy  
+BSc in Biology (Kiel University, 2023). Research interest: T cell heterogeneity and dynamics during T cell enhancer therapy  
 
-**Yifan Chen, Msc** (graduate student, starting Sept. 2025)
+**Yifan Chen, Msc** (graduate student since Sept. 2025)
 
-Master of Science in Mathematics (2024) and Bachelor of Science in Mathematics (2021), Technical University of Munich (TUM), Germany. Research interests: CAR T cell therapy, tumor heterogeneity, cancer evolution, mathematical models of cancer growth, single cell sequencing analysis.
+Master of Science in Mathematics (2024) and Bachelor of Science in Mathematics (2021), Technical University of Munich (TUM), Germany. Research interests: Immunotherapy, CAR T cell therapy, tumor heterogeneity, cancer evolution, mathematical models of cancer growth, and single-cell sequencing analysis.
 
 **Qianci Yang, Msc** (graduate student, primary Supervisor: Arne Traulsen)
 
-Bachelor's and master's (integrated master's) degree from the University of Warwick, UK (2022). Research interest in mathematical and statistical modelling of cancer and immune system interactions, evolutionary dynamics of leukemia, complex interactions of diseases, history of science. 
+Bachelor's and master's (integrated master's) degree from the University of Warwick, UK (2022). Research interests: mathematical and statistical modelling of cancer and immune system interactions, evolutionary dynamics of leukemia, complex interactions of diseases, history of science. 
 
 
-Postdocs
+Alumni
 ======
 
 **Mayukh Mondal, PhD** (Postdoctoral Researcher in the Clinical Research Unit 5010 <u><a href="https://www.catchall-kfo5010.com/" target="_blank">CATCH ALL</a></u>)
