@@ -13,12 +13,8 @@ author_profile: true
 We are located at the <u><a href="https://www.uksh.de" target="_blank">University Hospital Schleswig-Holstein, Campus Kiel</a></u>, in the <u><a href="https://www.uksh.de/med2-kiel/" target="_blank">Department for Hematology, Oncology</a></u>, where we focus our research efforts on ecological complexity, evolutionary dynamics and immune-interactions in cancer and the hematopoietic system. We apply nonlinear dynamical systems, stochastic processes, data science, and statistics to integrate models with data and make clinically relevant predictions. 
 
 
-Students
-======
-
-**Cedrik Neber, Bsc** (Master's student at Ludwig-Maximilians University Munich)
-
-BSc in Molecular Biology (University of Heidelberg, 2023). Research interest: γδ T cell-ovarian cancer cell interactions  
+Students (alphabetical order)
+====== 
 
 **Anne Anglet, Bsc** (Master's student at Kiel University)
 
@@ -27,6 +23,10 @@ BSc in Biology (Kiel University, 2023). Research interest: T cell heterogeneity 
 **Yifan Chen, Msc** (graduate student since Sept. 2025)
 
 Master of Science in Mathematics (2024) and Bachelor of Science in Mathematics (2021), Technical University of Munich (TUM), Germany. Research interests: Immunotherapy, CAR T cell therapy, tumor heterogeneity, cancer evolution, mathematical models of cancer growth, and single-cell sequencing analysis.
+
+**Cedrik Neber, Bsc** (Master's student at Ludwig-Maximilians University Munich)
+
+BSc in Molecular Biology (University of Heidelberg, 2023). Research interest: γδ T cell-ovarian cancer cell interactions 
 
 **Qianci Yang, Msc** (graduate student, primary Supervisor: Arne Traulsen)
 
