@@ -15,19 +15,23 @@ We are located at the <u><a href="https://www.uksh.de" target="_blank">Universit
 
 Students (alphabetical order)
 ====== 
+====== 
 
 **Anne Anglet, Bsc** (Master's student at Kiel University)
 
 BSc in Biology (Kiel University, 2023). Research interest: T cell heterogeneity and dynamics during T cell enhancer therapy  
 
+====== 
 **Yifan Chen, Msc** (graduate student since Sept. 2025)
 
 Master of Science in Mathematics (2024) and Bachelor of Science in Mathematics (2021), Technical University of Munich (TUM), Germany. Research interests: Immunotherapy, CAR T cell therapy, tumor heterogeneity, cancer evolution, mathematical models of cancer growth, and single-cell sequencing analysis.
 
+====== 
 **Cedrik Neber, Bsc** (Master's student at Ludwig-Maximilians University Munich)
 
 BSc in Molecular Biology (University of Heidelberg, 2023). Research interest: γδ T cell-ovarian cancer cell interactions 
 
+====== 
 **Qianci Yang, Msc** (graduate student, primary Supervisor: Arne Traulsen)
 
 Bachelor's and master's (integrated master's) degree from the University of Warwick, UK (2022). Research interests: mathematical and statistical modelling of cancer and immune system interactions, evolutionary dynamics of leukemia, complex interactions of diseases, history of science. 
@@ -35,6 +39,7 @@ Bachelor's and master's (integrated master's) degree from the University of Warw
 
 Alumni
 ======
+====== 
 
 **Mayukh Mondal, PhD** (Postdoctoral Researcher in the Clinical Research Unit 5010 <u><a href="https://www.catchall-kfo5010.com/" target="_blank">CATCH ALL</a></u>)
 
@@ -50,7 +55,7 @@ At the University of Kiel, we work with the teams of <u><a href="https://www.med
 
 Together with the group of <u><a href="https://moffitt.org/providers/frederick-locke/">Frederick L. Locke</a></u> and <u><a href="https://www.uni-kiel.de/de/detailansicht/news/119-portrait-friedrich-stoelzel">Friedrich Stölzel</a></u> we work on better understanding cellular and drug kinetics during CAR T cell therapy. 
 
-With the groups of <u><a href="https://labpages2.moffitt.org/marusyk/lab-members/">Andriy Marusyk</a></u> and <u><a href="https://lab.moffitt.org/cancerevo/">David Basanta</a></u> we work on tumor-stroma interacitons, tumor ecology, and the effects of cancer associated fibroblasts in lung and breast cancers. 
+With the groups of <u><a href="https://labpages2.moffitt.org/marusyk/lab-members/">Andriy Marusyk</a></u> and <u><a href="https://lab.moffitt.org/cancerevo/">David Basanta</a></u>, we work on tumor-stroma interactions, tumor ecology, and the effects of cancer-associated fibroblasts in lung and breast cancers. 
 
 With <u><a href="https://padronlab.moffitt.org/">Eric Padron</a></u> and his lab we work on inflammatory interactions in chronic myeloid diseases, such as CMML.
 
