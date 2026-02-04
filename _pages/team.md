@@ -8,7 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
+<!--
 ![We believe!](/images/WeBelieve_Math.png)
+-->
 
 We are located at the <u><a href="https://www.uksh.de" target="_blank">University Hospital Schleswig-Holstein, Campus Kiel</a></u>, in the <u><a href="https://www.uksh.de/med2-kiel/" target="_blank">Department for Hematology, Oncology</a></u>, where we focus our research efforts on ecological complexity, evolutionary dynamics and immune-interactions in cancer and the hematopoietic system. We apply nonlinear dynamical systems, stochastic processes, data science, and statistics to integrate models with data and make clinically relevant predictions. 
 
