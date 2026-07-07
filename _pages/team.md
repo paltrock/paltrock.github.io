@@ -18,9 +18,9 @@ We are located at the <u><a href="https://www.uksh.de" target="_blank">Universit
 Students (alphabetical order)
 ====== 
 
-**Anne Anglet, Bsc** (Master's student at Kiel University)
+**Anne Anglet, MSc** (PhD student at Kiel University and Clinical Research Unit <u><a href="https://www.catchall-kfo5010.com/" target="_blank">CATCH ALL</a></u>)
 
-BSc in Biology (Kiel University, 2023). Research interest: T cell heterogeneity and dynamics during T cell enhancer therapy  
+MSc and BSc in Biology (Kiel University, 2026 and 2023). Research interest: Digital Twin models of leukemia in children and adults.  
 
 
 **Yifan Chen, Msc** (graduate student since Sept. 2025)
